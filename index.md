@@ -6,7 +6,7 @@ feature_text: |
   # Leo Woolcock 
 ---
 
-## A locked down lighting programmer turned developer.
+###### A locked down lighting programmer turned developer.
 
 Anyone who has met me will know me as a lighting designer and programmer. I've been working in London and all over the world professionally since 2010.
 
