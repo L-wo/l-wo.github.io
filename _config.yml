@@ -25,7 +25,7 @@ baseurl: ''
 title: 'Leo Woolcock'
 description: 'Blog and Portfolio'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://picsum.photos/200?image=1"
 
 # Pagination
 paginate: 5
