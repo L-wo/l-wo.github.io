@@ -1,0 +1,58 @@
+# Set theme
+remote_theme: daviddarnes/alembic
+
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+- jekyll-remote-theme
+
+# Site settings
+url: 'https://leo-woolcock.co.uk'
+baseurl: ''
+title: 'Leo Woolcock'
+description: 'Blog and Portfolio'
+permalink: pretty
+logo: "https://picsum.photos/200?image=1"
+
+# Pagination
+paginate: 5
+paginate_path: blog/page:num
+
+# Header nav
+navigation_header:
+- title: Blog
+  url: /blog/
+- title: Lighting
+  url: /lighting/
+- title: Development
+  url: /development/
+- title: About
+  url: /about/
+
+# Footer nav
+navigation_footer:
+- title: Back to top
+  url: "#top"
+
+# Collections
+collections:
+  posts:
+    title: Journal Entries
+    output: true
+    description: "Absolute waffle, I'm sure"
+    feature_text: |
+      # Should I put some text here?
+    feature_image: "https://picsum.photos/2560/600?image=866"
