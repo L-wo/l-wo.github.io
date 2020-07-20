@@ -1,5 +1,4 @@
 ---
-layout: blog
-collectionpage: posts
-title: Journal
+layout: home
+background: '/img/bg-index.jpg'
 ---
