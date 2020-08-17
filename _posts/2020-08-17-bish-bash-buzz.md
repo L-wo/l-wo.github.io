@@ -3,7 +3,7 @@ layout: post
 title: Bish Bash Buzz
 subtitle: "My first 'proper' web application!"
 date: 2020-08-17 22:00:00 +0100
-background: '/img/posts/02.jpg'
+background: '/img/posts/07.jpg'
 ---
 
 
