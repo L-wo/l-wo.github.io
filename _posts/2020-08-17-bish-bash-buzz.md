@@ -7,7 +7,7 @@ background: '/img/posts/07.jpg'
 ---
 
 
-###### http://bishbash.buzz
+#### [http://bishbash.buzz](http://bishbash.buzz)
 
 So, this is my first web application to be released into the wild. I built upon the knowledge I gained with *Marvin Rigs It All* and learned a lot of new skills too.
 
